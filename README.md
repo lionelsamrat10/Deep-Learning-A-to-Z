@@ -1,4 +1,5 @@
-# Deep-Learning-A-to-Z
+# Deep-Learning-A-to-Z (By Kiril and Hadelin from Udemy)
+### The notes are prepared by [Samrat Mitra](https://github.com/lionelsamrat10)
 <p>
   Deep learning (also known as deep structured learning) is part of a broader family of machine learning methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised.
 
