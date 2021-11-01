@@ -18,6 +18,8 @@
 ## Types Of Neural Networks
 ### 1. Artificial Neural Network (ANN) ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Deep%20Learning/Artificial%20Neural%20Network%20(ANN)/ANN%20For%20Classification/artificial_neural_network_for_classification_samrat.ipynb)
 
+### ANN Article [Click Here!!](https://www.superdatascience.com/blogs/the-ultimate-guide-to-artificial-neural-networks-ann)
+
 <p>
 Artificial neural networks (ANNs) or connectionist systems are computing systems inspired by the biological neural networks that constitute animal brains. Such systems learn (progressively improve their ability) to do tasks by considering examples, generally without task-specific programming. For example, in image recognition, they might learn to identify images that contain cats by analyzing example images that have been manually labeled as "cat" or "no cat" and using the analytic results to identify cats in other images. They have found most use in applications difficult to express with a traditional computer algorithm using rule-based programming.
 </p>
@@ -38,6 +40,8 @@ As of 2017, neural networks typically have a few thousand to a few million units
 </p>
 
 ### 2. Convolutional Neural Network (CNN) ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/Deep-Learning-A-to-Z/blob/main/Convolutional%20Neural%20Networks%20(CNN)/convolutional_neural_network_samrat_with_10_epochs.ipynb)
+
+### CNN Article [Click Here!!](https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn)
 
 <p>
   In deep learning, a <b>convolutional neural network (CNN, or ConvNet)</b> is a class of artificial neural network, most commonly applied to analyze visual imagery. They are also known as shift invariant or space invariant artificial neural networks (SIANN), based on the shared-weight architecture of the convolution kernels or filters that slide along input features and provide translation equivariant responses known as feature maps. Counter-intuitively, most convolutional neural networks are only equivariant, as opposed to invariant, to translation. They have applications in image and video recognition, recommender systems, image classification, image segmentation, medical image analysis, natural language processing, brain-computer interfaces, and financial time series.
