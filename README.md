@@ -1,6 +1,7 @@
 # Deep-Learning-A-to-Z (By Kiril and Hadelin from Udemy)
 ### The notes are prepared by [Samrat Mitra](https://github.com/lionelsamrat10)
 
+![Deep Learning](https://singularityhub.com/wp-content/uploads/2018/11/multicolored-brain-connections_shutterstock_347864354-1068x601.jpg)
 ## What is Deep Learning ?
 <p>
   <b>Deep learning</b> (also known as deep structured learning) is part of a broader family of machine learning methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised.
@@ -17,6 +18,8 @@
 
 ## Types Of Neural Networks
 ### 1. Artificial Neural Network (ANN) ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/machine-learning-a-to-z/blob/main/Deep%20Learning/Artificial%20Neural%20Network%20(ANN)/ANN%20For%20Classification/artificial_neural_network_for_classification_samrat.ipynb)
+
+![ANN](https://www.extremetech.com/wp-content/uploads/2015/07/NeuralNetwork.png)
 
 ### ANN Article [Click Here!!](https://www.superdatascience.com/blogs/the-ultimate-guide-to-artificial-neural-networks-ann)
 
@@ -40,6 +43,8 @@ As of 2017, neural networks typically have a few thousand to a few million units
 </p>
 
 ### 2. Convolutional Neural Network (CNN) ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/Deep-Learning-A-to-Z/blob/main/Convolutional%20Neural%20Networks%20(CNN)/convolutional_neural_network_samrat_with_10_epochs.ipynb)
+
+![CNN](https://www.jeremyjordan.me/content/images/2017/07/Screen-Shot-2017-07-26-at-1.44.58-PM.png)
 
 ### CNN Article [Click Here!!](https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn)
 
