@@ -71,6 +71,8 @@ Convolutional layers convolve the input and pass its result to the next layer. T
 
 ### 3. Recurrent Neural Network (RNN) ✅ [Google Colab File Available here](https://github.com/lionelsamrat10/Deep-Learning-A-to-Z/blob/main/Recurrent%20Neural%20Network%20(RNN)/Price%20Prediction%20using%20Reccurent%20Neural%20Networks.ipynb)
 
+![RNN](https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/RNN-shorttermdepdencies.png)
+
 ### RNN Article [Click Here!!](https://www.superdatascience.com/blogs/the-ultimate-guide-to-recurrent-neural-networks-rnn)
 
 <p>
@@ -98,13 +100,16 @@ LSTM also improved large-vocabulary speech recognition and text-to-speech synthe
 LSTM broke records for improved machine translation, Language Modeling and Multilingual Language Processing. LSTM combined with convolutional neural networks (CNNs) improved automatic image captioning.
 </p>
 
+![LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/img/LSTM3-chain.png)
+
 ### Architecture
 
 <p>RNNs come in many variants.</p>
+
 #### Fully Recurrent
 
 <p>
 Fully recurrent neural networks (FRNN) connect the outputs of all neurons to the inputs of all neurons. This is the most general neural network topology because all other topologies can be represented by setting some connection weights to zero to simulate the lack of connections between those neurons. The illustration to the right may be misleading to many because practical neural network topologies are frequently organized in "layers" and the drawing gives that appearance. However, what appears to be layers are, in fact, different steps in time of the same fully recurrent neural network. The left-most item in the illustration shows the recurrent connections as the arc labeled 'v'. It is "unfolded" in time to produce the appearance of layers.
 </p>
 
-![alt tag](https://upload.wikimedia.org/wikipedia/commons/b/b5/Recurrent_neural_network_unfold.svg)
+![Fully Recurrent Neural Network](https://upload.wikimedia.org/wikipedia/commons/b/b5/Recurrent_neural_network_unfold.svg)
